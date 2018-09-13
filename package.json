@@ -1,0 +1,9 @@
+{
+  "name": "hmd",
+  "version": "1.0.0",
+  "description": "A hackmud CLI",
+  "main": "index.js",
+  "repository": "git@github.com:tylerscheuble/hmd.git",
+  "author": "tylerscheuble <tyler@scheuble.us>",
+  "license": "WTFPL"
+}
