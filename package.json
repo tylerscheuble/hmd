@@ -6,6 +6,9 @@
   "repository": "git@github.com:tylerscheuble/hmd.git",
   "author": "tylerscheuble <tyler@scheuble.us>",
   "license": "WTFPL",
+  "bin": {
+    "hmd": "./src/main.js"
+  },
   "dependencies": {
     "acorn": "^5.7.3",
     "chalk": "^2.4.1",
